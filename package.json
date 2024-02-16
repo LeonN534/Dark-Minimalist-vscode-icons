@@ -1,0 +1,28 @@
+{
+  "name": "dark-minimalist-icons",
+  "displayName": "Dark Minimalist Icons",
+  "description": "A vscode icons theme made using the Dark Minimalist color palette",
+  "version": "1.0.0",
+  "publisher": "LeonN534",
+  "license": "MIT",
+  "icon": "assets/logo/128x128.png",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "dark-minimalist-icons",
+        "label": "Dark Minimalist Icons",
+        "path": "./themes/dark-minimalist-icons.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonN534/Dark-Minimalist-vscode-icons"
+  }
+}
