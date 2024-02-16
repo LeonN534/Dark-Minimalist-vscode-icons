@@ -20,7 +20,7 @@ Install the extension from a Marketplace:
 **Manual method for installation**
 
 Download the VSIX from
-[the latest GitHub release]().
+[the latest GitHub release](https://github.com/LeonN534/Dark-Minimalist-vscode-icons/releases/latest).
 Open the Command Palette and select "Extensions: Install from VSIX...", then select the file you just downloaded.
 
 **Using the JSON files**
