@@ -14,8 +14,8 @@
 
 Install the extension from a Marketplace:
 
-- [Visual Studio Marketplace]()
-- [Open-VSX]()
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LeonN534.dark-minimalist-icons)
+- [Open-VSX](https://open-vsx.org/extension/LeonN534/dark-minimalist-icons)
 
 **Manual method for installation**
 
